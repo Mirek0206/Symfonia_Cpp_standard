@@ -1,3 +1,9 @@
+/* --------------------------------------------
+ * program na przleiczanie wysokosci podanej
+ * w stopach na wysokosc w metrach.
+ * Cwiczymy tu operacje wczytywania z klawiatury
+ * i wypisywania na ekranie.
+ ---------------------------------------------*/
 #include <iostream>
 
 int main(void)
