@@ -13,5 +13,5 @@ int main()
         std::cout << "Pasazer nr " << i << " prosze zapiac pasy ! \n";
     }
 
-    std::cout << "Skoro wszyscy juz apieli, to ladujemy. ";
+    std::cout << "Skoro wszyscy juz zapieli, to ladujemy. ";
 }
